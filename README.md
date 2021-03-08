@@ -1,2 +1,2 @@
 # centras
-arduino AI - graduation project 9 
+arduino AI - ESP32 wifi server code
